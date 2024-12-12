@@ -1,4 +1,4 @@
-# Staphylococcus-Aureus
+# Gene Expression of Staphylococcus-Aureus using Clustering
 This project analyzes gene expression data related to Staphylococcus aureus using dimensionality reduction and clustering techniques to identify patterns among samples.
 
 Data Preprocessing: Gene expression data is normalized and filtered to remove low-variance genes. Dimensionality reduction is performed using Principal Component Analysis (PCA).
